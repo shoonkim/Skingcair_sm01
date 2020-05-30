@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">KING CAIR GS Mall</string>
+    <string name="title_notice">공지사항</string>
+    <string name="title_special_sales">특가판매</string>
+    <string name="title_product">상품</string>
+    <string name="title_purchase_history">구매내역</string>
+    <string name="title_login">로그인</string>
+    <string name="title_logout">로그아웃</string>
+
+    <string name="product_total_tab_txt">전체</string>
+    <string name="product_handcare_tab_txt">핸드케어</string>
+    <string name="product_footcare_tab_txt">풋케어</string>
+    <string name="product_nailart_tab_txt">네일케어</string>
+    <string name="product_toenailcorrection_tab_txt">발톱교정</string>
+    <string name="product_yzone_tab_txt">와이이너</string>
+    <string name="product_eyelash_tab_txt">아이레쉬</string>
+    <string name="product_waxing_tab_txt">왁싱</string>
+
+    <string name="item_name_txt">상품명</string>
+    <string name="item_sub_txt">간단한 상품설명</string>
+    <string name="item_unit_price_txt">210,000 원</string>
+    <string name="item_unit_txt">1000ml/EA</string>
+    <string name="item_stock_txt">재고 : 10,000EA</string>
+
+</resources>
